@@ -2,7 +2,7 @@
 
 ## Approach:
 
-- load Pandas DataFrame containing (Dec-17) housing data
+- load Pandas DataFrame containing housing data
 - do some simple data exploration / visualisation
 - remove non-numeric data, NaNs, and outliers
 - split the data in train and test sets (+ normalise independent variables where required) 
